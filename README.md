@@ -1,36 +1,29 @@
-# cinema
+# Restful
 
-<h1>Spring MVC & Hibernate</h1>
+<h1>Developing a quality API</h1>
 
 <h3>Description</h3>
-<p>You need to implement a movie theater administrator functionality using Spring MVC mechanisms.</p>
+<p>The tasks in this project will teach you how to use Spring mechanisms to develop REST applications.</p>
 
 <h3>Stack</h3>
 <ol>
   <li>Spring MVC</li>
-  <li>Hibernate Framework in conjuction with JPA</li>
-  <li>Freemarker template</li>
+  <li>Spring Boot</li>
+  <li>Spring Security</li>
+  <li>Spring Data JPA</li>
+  <li>Spring Hateoas</li>
+  <li>Swagger API</li>
   <li>Lombok</li>
   <li>Postresql</li>
-  <li>AJAX</li>
-  <li>Spring Websockets STOMP</li>
+  <li>JWT Token</li>
 </ol>
   
 <h3>To start project</h3>
+<p>В src01 и src02:</p>
 <ul>
     <li>mvn clean install</li>
-    <li>mvn org.codehaus.cargo:cargo-maven3-plugin:run</li>
 </ul>
 
 <h3>Start page</h3>
 
-![Index_page](/Cinema/index.png?raw=true "Index_page")
-<h3>Profile page</h3>
-
-![Profile_page](/Cinema/profile.png?raw=true "Profile_page")
-<h3>Film page</h3>
-
-![Film_page](/Cinema/films.png?raw=true "Film_page")
-<h3>Chat page</h3>
-
-![Chat_page](/Cinema/chat.png?raw=true "Chat_page")
+![Index_page](/Restful/index.png?raw=true "Index_page")
