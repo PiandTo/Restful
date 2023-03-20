@@ -1,6 +1,7 @@
 # Compiled class file
 *.class
-
+ex01/target
+ex01/src/main/resources/secret.properties
 # Log file
 *.log
 

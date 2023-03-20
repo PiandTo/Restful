@@ -1,0 +1,17 @@
+= Hemelia and Snaomi "RESTFUL" project
+== Course API
+
+== Methods
+=== Course publish
+You can publish a course with status *DRAFT*
+
+request
+
+include::{snippets}/publishCourseByIdTest/http-request.adoc[]
+
+response
+
+include::{snippets}/publishCourseByIdTest/http-response.adoc[]
+
+Table1. response-fields
+include::{snippets}/publishCourseByIdTest/response-fields.adoc[]
