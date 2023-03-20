@@ -24,6 +24,6 @@
     <li>mvn clean install</li>
 </ul>
 
-<h3>Start page</h3>
+<h3>APP Api</h3>
 
 ![Index_page](/Restful/index.png?raw=true "Index_page")
