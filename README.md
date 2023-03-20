@@ -26,4 +26,4 @@
 
 <h3>APP Api</h3>
 
-![Index_page](/Restful/index.png?raw=true "Index_page")
+![Index_page](/index.png?raw=true "Index_page")
